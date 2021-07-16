@@ -65,7 +65,7 @@
 
 ### Office
 
-- [Apostrophe](https://somas.pages.gitlab.gnome.org/apostrophe/) - Distraction-free Markdown editor. ![GNOME Circle][GNOME Circle]
+- [Apostrophe](https://gitlab.gnome.org/World/apostrophe) - Distraction-free Markdown editor. ![GNOME Circle][GNOME Circle]
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
 - [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
